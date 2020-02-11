@@ -10,5 +10,19 @@
     "tslint.json": "*",
     "nx.json": "*"
   },
-  "projects": {}
+  "projects": {
+    "hdesk": {
+      "tags": []
+    },
+    "hdesk-e2e": {
+      "tags": [],
+      "implicitDependencies": ["hdesk"]
+    },
+    "data": {
+      "tags": []
+    },
+    "ui": {
+      "tags": []
+    }
+  }
 }
