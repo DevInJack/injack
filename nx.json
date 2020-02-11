@@ -23,6 +23,15 @@
     },
     "ui": {
       "tags": []
+    },
+    "models": {
+      "tags": []
+    },
+    "services": {
+      "tags": []
+    },
+    "plugins": {
+      "tags": []
     }
   }
 }
